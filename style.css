@@ -4,8 +4,7 @@ body{
 }
 .faxlibal-contenar{
     display: flex;
-    margin-bottom: 120px;
-    
+    margin-bottom: 120px
 }
 .half-width{
     width: 50%;
