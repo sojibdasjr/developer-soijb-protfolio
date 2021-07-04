@@ -2,8 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
-section{
+.faxlibal-contenar{
     display: flex;
+    margin-bottom: 120px;
     
 }
 .half-width{
@@ -17,6 +18,7 @@ section{
 .h1{
     font-size: 50px;
     padding-left: 40px;
+    
 }
 .h2{
     font-size: 40px;
@@ -27,8 +29,8 @@ section{
 }
 .pj{
     text-align:justify;
-    padding-left: 10px;
     padding-left: 40px;
+    padding-right: 10%;
 }
 .link-media{
     background-image: linear-gradient(orange,tomato);
@@ -42,4 +44,56 @@ section{
 .top-bannar{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.h3{
+    padding-left: 40px;
+    text-align: justify;
+    padding-right: 10%;
+}
+.dream-bannar{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.box-text{
+    font-size: 40px;
+}
+.orange{
+    color: rgb(252, 13, 212);
+}
+.box-shadow{
+    width: 45%;
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 10px;
+    box-shadow:10px 10px 40px gray;
+    padding-left: 20px;
+    padding-right: 5px;
+    
+
+   
+}
+.text-in{
+    text-align: justify;
+}
+.Experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+
+#border-color{
+    border-image: linear-gradient(orange,rgb(255, 0, 21));
+    border-left: 7px solid;
+    border-image-slice: 1;
+    
+}
+#border{
+    border-image: linear-gradient(rgb(54, 0, 248),rgb(4, 255, 255));
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
