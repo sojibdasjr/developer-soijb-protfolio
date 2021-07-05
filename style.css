@@ -23,15 +23,15 @@ body{
     font-size: 40px;
     padding-left: 40px;
 }
-.sd{
+.color-orange{
     color: orangered;
 }
-.pj{
+.text-alin{
     text-align:justify;
     padding-left: 40px;
     padding-right: 10%;
 }
-.link-media{
+.anchor-link{
     background-image: linear-gradient(orange,tomato);
     padding: 10px 18px;
     text-decoration: none;
@@ -72,7 +72,7 @@ body{
 
    
 }
-.text-in{
+.text-paragraph{
     text-align: justify;
 }
 .Experiences-area{
